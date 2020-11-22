@@ -1,0 +1,17 @@
+.coolTitle {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 40px;
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: tomato;
+  text-decoration: bold;
+  
+.done {
+  text-decoration: line-through;
+}
+
+head{
+  background-color: red;
+  text-decoration: bold;
+}
